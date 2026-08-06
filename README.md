@@ -4,4 +4,4 @@ test1
 test2
 test3
 step6
-step6.2
+step8
